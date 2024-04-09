@@ -1,6 +1,6 @@
 
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-Link to something cool(ajay_kumar.github.io)
+<a href="https://ajashiatechnologies.github.io/Ajaykumar.github.io/">Explore my portfolio</a>
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
 <h3 align="center">A passionate Android apps and Embedded Systems (IOT) Developer from India</h3>
 
